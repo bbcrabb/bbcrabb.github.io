@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /about_us
 title: About Us
 tags: [tags]
 ---

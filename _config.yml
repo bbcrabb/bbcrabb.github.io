@@ -1,4 +1,4 @@
-title:            Dylan & Briana
+title:            Briana & Dylan
 description:
 logo:
 disqus_shortname: shortname
@@ -38,6 +38,8 @@ links:
     url: /
     external: false
     icon: home
+  - title: About Us
+    url: /about_us
   - title: Wedding Details
     url: /details
   - title: Registry
