@@ -1,8 +1,12 @@
 ---
 layout: page
-permalink: /about/
-title: About Me
+permalink: /
+title: About Us
 tags: [tags]
 ---
+<figure>
+<img src="/images/about_us.jpg" width="100"  border-radius="100%" align="center">
+</figure>
 
-# Your about page
+
+Letst tell a little story about how we met. Were cool people

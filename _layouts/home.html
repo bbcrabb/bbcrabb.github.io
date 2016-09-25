@@ -1,25 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    
+
 <head>
     {% include head.html %}
 </head>
 
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
-{% if site.search %}
-<div class="search-wrapper">
-    <div class="search-form">
-        <input type="text" id="search-input" class="search-field" placeholder="Search...">
-        <i id="search-close" class="fa fa-times-circle"></i>
-        <h4>Search results</h4>
-        <ul id="results-container" class="search-results post-list">
-        </ul>
-        <!-- /.search-results -->
-    </div>
-    <!-- /.search-form -->
-</div>
-<!-- ./search-wrapper -->
-{% endif %}
+
     <div id="fade"></div>
     <a id="slide" class="animated fade"></a>
     <aside id="sidebar">
@@ -34,7 +21,7 @@
                     <a href="{{ link.url }}">{{ link.title }}</a>
                 {% endif %}
                 </li>
-{% endfor %}            
+{% endfor %}
                 <li><a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss"></i> Feed</a></li>
             </ul>
         </nav>
@@ -70,7 +57,7 @@
         <div class="inner">
             <div class="container">
                 <a class="brand" href="" itemprop="url">
-                    <img itemprop="logo" src="/images/{{ site.logo }}" alt="{{ site.title }} Logo" />
+                    <!--<img itemprop="logo" src="/images/{{ site.logo }}" alt="{{ site.title }} Logo" />-->
                 <h1 class="blog-title light" itemprop="name">
                     {{ site.title }}
                 </h1>
@@ -109,13 +96,13 @@
             <div class="row">
                 <div class="page-body" itemprop="description">
                 {{ content }}
-                </div>    
+                </div>
             </div>
         </div>
     </div>
 
     {% include footer.html %}
 
-    {% include scripts.html %}  
+    {% include scripts.html %}
 </body>
 </html>
