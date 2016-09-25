@@ -39,7 +39,7 @@ links:
     external: false
     icon: home
   - title: About Us
-    url: /about_us
+    url: /about-us
   - title: Wedding Details
     url: /details
   - title: Registry
