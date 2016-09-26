@@ -4,11 +4,8 @@ permalink: /details
 title: Wedding Details
 tags: [tags]
 ---
-
+<br>
 <div class="text-center">
-# Comming Soon.
-
-
-#### check back in for awesome to come!
-
+<h1>COMING SOON.</h1>
+<h4>Check back in a bit for the deets on our wedding celebration!</h4>
 </div>

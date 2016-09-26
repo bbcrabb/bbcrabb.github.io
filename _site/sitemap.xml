@@ -7,9 +7,12 @@
 <loc>/404</loc>
 </url>
 <url>
-<loc>/about_us</loc>
+<loc>/about-us</loc>
 </url>
 <url>
 <loc>/details</loc>
+</url>
+<url>
+<loc>/photos</loc>
 </url>
 </urlset>

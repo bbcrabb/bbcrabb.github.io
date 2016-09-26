@@ -73,7 +73,6 @@
                     {% endif %}
                 </li>
                 {% endfor %}
-                <li><a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss"></i> Feed</a></li>
             </ul>
         </div>
     </div>
@@ -88,20 +87,20 @@
             <path class="small left" d="M0 0 L50 50 L0 33.3" fill="rgba({{ site.fin_color }}, .5)"></path>
             <path class="small right" d="M100 0 L50 50 L100 33.3" fill="rgba({{ site.fin_color }}, .5)"></path>
             <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path>
-            <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>    
+            <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>
         </svg>
     </div>
     {% else %}
-    
+
     {% if site.triangleheader %}
     <div class="decor-wrapper">
         <svg id="footer-decor" class="decor top" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
-            <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path> 
-            <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>    
+            <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path>
+            <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>
         </svg>
     </div>
     {% endif %}
-    
+
     {% endif %}
-    
+
 </footer>
