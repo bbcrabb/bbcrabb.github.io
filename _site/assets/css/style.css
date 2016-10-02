@@ -524,7 +524,7 @@ html {
   display: table;
   text-align: center;
   width: 100%;
-  height: 60%;
+  height: 75%;
   padding: 24px 0;
   box-sizing: border-box;
 }
@@ -1968,7 +1968,7 @@ button.menu-button {
 }
 
 button.menu-button:hover {
-  background-color: #39c492;
+  background-color: #575757;
   color: #fff;
   box-shadow: rgba(0,0,0,0.2) 0 0 0 3px;
 }
@@ -2007,7 +2007,7 @@ a#slide {
   top: 10px;
   left: 10px;
   text-align: center;
-  font: 22px/40px "icon";
+  font: 22px/40px FontAwesome;
   color: #fff;
   background: #262626;
   border-radius: 3px;
@@ -2015,15 +2015,17 @@ a#slide {
 }
 
 a#slide:hover {
-  background: #39c492;
+  background: #575757;
 }
 
 a#slide:after {
-  content: "F";
+  font-family: FontAwesome;
+  content: "\f0c9";
 }
 
 a#slide.slide:after {
   position: absolute;
+  font-family: FontAwesome;
   content: "X";
   top: 11px;
   left: 50%;

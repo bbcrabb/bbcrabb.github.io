@@ -40,14 +40,18 @@ links:
     icon: home
   - title: About Us
     url: /about-us
+  - title: Our Pictures
+    url: /photos
   - title: Wedding Details
     url: /details
+  - title: Lodging
+    url: /lodging
+  - title: The Wedding Party
+    url: /wedding-party
   - title: Registry
     url: /registry
     external: true
-  - title: Our Pictures
-    url: /photos
-    
+
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 collections:
