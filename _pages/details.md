@@ -38,7 +38,7 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 </div>
 <br>
 <div class="text-center">
-<p class="small"><i>The Historic Mankin Mansion</i></p>
+<p class="small"><i><a href="http://www.historicmankinmansion.com/" target="blank">The Historic Mankin Mansion</a></i></p>
 <p class="small"> 4300 Oakleys Ln</p>
 <p class="small"> Richmond, VA 23223</p>
 </div>
