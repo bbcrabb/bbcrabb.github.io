@@ -44,11 +44,9 @@ links:
     url: /details
   - title: Accommodations
     url: /accommodations
-  - title: Our Pictures
-    url: /photos
   - title: Registry
     url: /registry
-    external: true
+    external: false
   - title: RSVP
     url: https://google.com
     external: true
