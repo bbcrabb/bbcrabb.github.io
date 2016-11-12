@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lodging
+permalink: /accommodations
 title: Lodging
 tags: [tags]
 ---

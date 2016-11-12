@@ -38,19 +38,21 @@ links:
     url: /
     external: false
     icon: home
-  - title: About Us
-    url: /about-us
+  - title: Our Story
+    url: /our-story
+  - title: When & Where
+    url: /details
+  - title: Accommodations
+    url: /accommodations
   - title: Our Pictures
     url: /photos
-  - title: Wedding Details
-    url: /details
-  - title: Lodging
-    url: /lodging
-  - title: The Wedding Party
-    url: /wedding-party
   - title: Registry
     url: /registry
     external: true
+  - title: RSVP
+    url: https://google.com
+    external: true
+
 
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks

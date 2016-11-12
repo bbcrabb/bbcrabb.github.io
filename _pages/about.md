@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /about-us
-title: About Us
+permalink: /our-story
+title: Our Story
 tags: [tags]
 ---
 <br>
