@@ -50,12 +50,12 @@ body {
     /*padding-bottom: 20%;*/
     margin-left: 10%;
 }
-
+/*
 @media(max-width:767px){
   .intro-message{
     padding-top: 300px;
   }
-}
+}*/
 
 .intro-message .header {
     margin: 0;
