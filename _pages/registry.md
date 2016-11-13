@@ -18,7 +18,7 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 <br><br>
 
 <div style="margin: 0 auto; width: 75%;" class="text-center">
-            <div style="height: 40%; margin: 0 auto;">
+            <div style="width: 50%; margin: 0 auto;">
                 <a ><img src="images/crate_barrell.png">
                 </a>
             </div>
