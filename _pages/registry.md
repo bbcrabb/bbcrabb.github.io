@@ -17,14 +17,14 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 </div>
 <br><br>
 
-<div style="margin: 0 auto; width:60%" >
-            <div style="height: 70%; float: left;">
-                <a ><img src="images/crate_barrel.png">
+<div style="margin: 0 auto; width: 75%;" class="text-center">
+            <div style="height: 40%; margin: 0 auto;">
+                <a ><img src="images/crate_barrell.png">
                 </a>
             </div>
 
-            <div style="width:40%; float: right;">
-                <a ><img src="images/macys_logo.png">
+            <div style="width:40%; margin: 0 auto;">
+                <a ><img src="images/macys.gif">
                 </a>
             </div>
 </div>
