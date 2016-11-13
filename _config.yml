@@ -47,9 +47,6 @@ links:
   - title: Registry
     url: /registry
     external: false
-  - title: RSVP
-    url: https://google.com
-    external: true
 
 
 
