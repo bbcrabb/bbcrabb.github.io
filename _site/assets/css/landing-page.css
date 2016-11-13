@@ -50,14 +50,20 @@ body {
     /*padding-bottom: 20%;*/
     margin-left: 10%;
 }
-
+/*
+@media(max-width:767px){
+  .intro-message{
+    padding-top: 275px;
+  }
+}*/
 .intro-message .header {
     margin: 0;
     font-size: 50px;
     font-size: 4.5vw;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
-    color: #313131
+    color: #313131;
+
 }
 
 .intro-message .subtitle {
