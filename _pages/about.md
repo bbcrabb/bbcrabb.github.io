@@ -4,20 +4,32 @@ permalink: /our-story
 title: Our Story
 tags: [tags]
 ---
+<style>
+
+h2  {margin-bottom: 10px; font-family: 'Raleway', sans-serif !important;}
+p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !important;
+      line-height= 1em;}
+.small {font-size: 16px;}
+</style>
+
 <br>
 <figure>
 <img src="/images/about_us.jpg" width="50%"   style="border-radius:50%;" align="center">
 </figure>
 <br>
 <div class="text-center">
-We need to write a story about how we met. Someone write this for us.
 
-Briana doesnt like writing.
+<h2>How We Met</h2>
+<p> Briana and I were both dedicated employees at War Memorial Gym, but had never had a shift together.  In January 2015 fate intervened when we both took 6am opening shifts on Monday's. Little did I know that this random girl who had to put up with me at 6am would turn out to be my perfect match. What first started out as a just coworkers, we quickly bonded over 90s rap music, sports, and began spending more and more time together.  When Briana tore her ACL and began needing rides to work at 5:30 in the morning, I saw this as my opportunity and invited her over for a home-made Valentine's Day dinner. From that point forward we spent most of our time off together, turning us into the happy couple we are today.</p>
 
-Briana likes design and coding but not writing.
+<br>
+<h2>The Proposal</h2>
+<p> In August 2016 we took a trip to the white sandy beaches of Destin, Florida. On Monday August 22, Dylan took me to the Henderson Beach Inn for a nice dinner out. Unbeknownst to me know he had ordered up a romantic oceanside dinner complete with rose-petals, candles, and an engagement ring! As he got down on one knee tears filled my eyes and I couldn't help but blurt out YES! After the official proposal we enjoyed an extremely overpriced bottle of Dom Perignon and watched the sunset while we talked about the future ahead of us.</p>
+
+<br>
+<h2>Dylan & Bri </h2>
+<p>We are both graduates of Virginia Tech and now live in Richmond, Virginia. We love the beach, puppies, and taking awkward photos. On the weekends we enjoy spending time with family and friends and the occasional outdoor adventure. We also enjoy spending time with our wonderful <del>puppy</del> baby Randi. We are looking forward to the future ahead as our family continues to grow and our lives continue forward!</p>
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id justo gravida, viverra sapien sed, suscipit dolor. Sed egestas egestas eros sed mattis. Vivamus in erat facilisis, aliquam purus ac, vulputate dui. Sed pulvinar tortor ut tellus porttitor, in malesuada odio venenatis. Mauris id posuere sapien. Nunc ac quam lectus. Proin in augue commodo, scelerisque ante eu, ullamcorper lectus. In eleifend sollicitudin egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec vestibulum magna. Etiam pretium suscipit porta. Sed non magna imperdiet magna laoreet interdum ut at risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 </div>
 
 <br>
