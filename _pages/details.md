@@ -28,6 +28,15 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
     background-color: black;
     color: white;
 }
+#details a:link{
+  color: #807f83;
+  text-decoration: underline;
+}
+#details a:hover{
+  color: #337ab7;
+  text-decoration: underline;
+}
+
 
 </style>
 
@@ -37,7 +46,7 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 <p> 4:30 - 10:00 PM</p>
 </div>
 <br>
-<div class="text-center">
+<div id="details" class="text-center">
 <p class="small"><i><a href="http://www.historicmankinmansion.com/" target="blank">The Historic Mankin Mansion</a></i></p>
 <p class="small"> 4300 Oakleys Ln</p>
 <p class="small"> Richmond, VA 23223</p>
