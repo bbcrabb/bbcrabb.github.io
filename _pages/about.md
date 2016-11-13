@@ -39,9 +39,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id justo gravida, vi
   <a href="images/us-1.jpg"><img src="images/us-1.jpg" style="width:225px; height: 225px;"></a>
   <a href="images/fancy-night.jpg"><img src="images/fancy-night.jpg" style="width:225px; height: 225px;"></a>
   <a href="images/buffalo_trip.jpg"><img src="images/buffalo_trip.jpg" style="width:225px; height: 225px;"></a>
-  <a href="images/awk-1.jpg"><img src="images/awk-1.jpg" style="width:225px; height: 225px;"></a>
-  <a href="images/awk-2.jpg"><img src="images/awk-2.jpg" style="width:225px; height: 225px;"></a>
   <a href="images/awk-3.jpg"><img src="images/awk-3.jpg" style="width:225px; height: 225px;"></a>
+  <a href="images/awk-1.jpg"><img src="images/awk-1.jpg" style="width:225px; height: 225px;"></a>
   <a href="images/awk-4.jpg"><img src="images/awk-4.jpg" style="width:225px; height: 225px;"></a>
+  <a href="images/awk2.jpg"><img src="images/awk2.jpg" style="width:225px; height: 225px;"></a>
 </section>
 </div>
