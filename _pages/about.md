@@ -20,7 +20,7 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 <div class="text-center">
 
 <h2>How We Met</h2>
-<p> Briana and I were both dedicated employees at War Memorial Gym, but had never had a shift together.  In January 2015 fate intervened when we both took 6am opening shifts on Mondays. Little did I know that this random girl who had to put up with me at 6AM would turn out to be my perfect match. What first started out as a just coworkers, we quickly bonded over 90s rap music, sports, and began spending more and more time together.  When Briana tore her ACL and began needing rides to work at 5:30 in the morning, I saw this as my opportunity and invited her over for a home-made Valentine's Day dinner. From that point forward we spent most of our time off together, turning us into the happy couple we are today.</p>
+<p> Briana and I were both dedicated employees at War Memorial Gym, but had never had a shift together.  In January 2014 fate intervened when we both took 6am opening shifts on Mondays. Little did I know that this random girl who had to put up with me at 6AM would turn out to be my perfect match. What first started out as a just coworkers, we quickly bonded over 90s rap music, sports, and began spending more and more time together.  When Briana tore her ACL and began needing rides to work at 5:30 in the morning, I saw this as my opportunity and invited her over for a home-made Valentine's Day dinner. From that point forward we spent most of our time off together, turning us into the happy couple we are today.</p>
 
 <br>
 <h2>The Proposal</h2>
