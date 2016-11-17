@@ -11,7 +11,6 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
       line-height= 1em;}
 .small {font-size: 16px;}
 .button {
-    /*background-color: #4CAF50;*/
     border: 2px solid black;
     color: black;
     padding: 13px 26px;
@@ -19,7 +18,6 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    /*margin: 4px 2px;*/
     cursor: pointer;
     font-family: 'Raleway', sans-serif !important;
 }
@@ -37,10 +35,62 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
   text-decoration: underline;
 }
 
+#clockdiv{
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	display: inline-block;
+
+	text-align: center;
+	font-size: 30px;
+  font-weight: 500;
+}
+
+#clockdiv > div{
+	border-radius: 3px;
+	display: inline-block;
+}
+
+#clockdiv div > span{
+  width: 75px;
+  height: 75px;
+  -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  text-align: center;
+  line-height: 75px;
+	background: rgb(16, 16, 16);
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+  font-weight: 500;
+  color: black;
+}
 
 </style>
-
 <div class="text-center">
+<div id="clockdiv" class="text-center">
+  <div>
+    <span class="days"></span>
+    <div class="smalltext">Days</div>
+  </div>
+  <div>
+    <span class="hours"></span>
+    <div class="smalltext">Hours</div>
+  </div>
+  <div>
+    <span class="minutes"></span>
+    <div class="smalltext">Minutes</div>
+  </div>
+  <div>
+    <span class="seconds"></span>
+    <div class="smalltext">Seconds</div>
+  </div>
+</div>
+
+
 <h2><b>Ceremony and Reception</b></h2>
 <p> Sunday, November 12, 2017</p>
 <p> 4:30 - 10:00 PM</p>

@@ -2,7 +2,86 @@
 <!--<div id="fade"></div>-->
 <!--<a id="slide" class="animated fade"></a>-->
 
+<style>
 
+#clockdiv{
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	display: inline-block;
+
+	text-align: center;
+	font-size: 30px;
+  font-weight: 500;
+}
+
+#clockdiv > div{
+	/*padding: 10px;*/
+	border-radius: 3px;
+	/*background: #00BF96;*/
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	/*padding: 10px;*/
+  width: 75px;
+  height: 75px;
+  -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  text-align: center;
+  line-height: 75px;
+	/*border-radius: 3px;*/
+	background: rgb(16, 16, 16);
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+  font-weight: 500;
+  color: black;
+}
+/*@media(max-width:767px) {
+    #clockdiv {
+      display: none;
+    }*/
+}
+</style>
+<!--
+<style>
+#clockdiv{
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+#clockdiv > div{
+	padding: 10px;
+	border-radius: 3px;
+	/*background: #00BF96;*/
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	padding: 10px;
+	border-radius: 3px;
+	background: rgba(16, 16, 16, 0.69);
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+  font-weight: 500;
+}
+</style>
+
+<script>
+
+</script>-->
 <header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom" style="background-image: url(/images/{{ site.default_bg }})"
     itemscope itemtype="http://schema.org/Organization">
 
@@ -14,8 +93,29 @@
                     {{ site.title }}
                 </h1>
             </a>
+          <!--  <div id="clockdiv" class=text-center>
+            <div>
+              <span class="days"></span>
+              <div class="smalltext">Days</div>
+            </div>
+            <div>
+              <span class="hours"></span>
+              <div class="smalltext">Hours</div>
+            </div>
+            <div>
+              <span class="minutes"></span>
+              <div class="smalltext">Minutes</div>
+            </div>
+            <div>
+              <span class="seconds"></span>
+              <div class="smalltext">Seconds</div>
+            </div>
+          </div>-->
         </div>
     </div>
+
+
+
 
 <!--{% if site.animated_fins and site.triangleheader %}
 
