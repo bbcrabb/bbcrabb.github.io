@@ -58,7 +58,7 @@
       var timeinterval = setInterval(updateClock, 1000);
     }
 
-    var deadline = new Date("November 12, 2017 04:30:00");;
+    var deadline = new Date("November 12, 2017 16:30:00");;
     initializeClock('clockdiv', deadline);
     // Init waypoints for header and footer animations
     function waypointsInit() {
