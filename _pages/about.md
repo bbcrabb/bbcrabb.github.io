@@ -28,7 +28,7 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 
 <br>
 <h2>Dylan & Bri </h2>
-<p>We are both graduates of Virginia Tech and now live in Richmond, Virginia. We love the beach, puppies, and taking awkward photos. On the weekends we enjoy spending time with family and friends and the occasional outdoor adventure. We also enjoy spending time with our wonderful pup Randi. We are looking forward to the future ahead as our family continues to grow and our lives continue forward!</p>
+<p>We are both graduates of Virginia Tech and now live in Richmond, Virginia. We love the beach, puppies, and taking awkward photos. On the weekends we enjoy spending time with family and friends and the occasional outdoor adventure. We also enjoy spending time with our wonderful pup Randi. We are looking forward our future together as our family continues to grow and our lives continue forward!</p>
 <br><br>
 </div>
 
