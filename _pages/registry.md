@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /registry
-title: ' '
+title: Registry
 tags: [tags]
 ---
 <style>
@@ -12,19 +12,14 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 </style>
 
 <div class="text-center">
-<h2><b>Our Registry</b></h2>
-<p> Links to our registries are coming soon! </p>
+<!-- <h2><b>Our Registry</b></h2> -->
+<p> <b>Help hook us up!! </b></p>
 </div>
 <br><br>
 
 <div style="margin: 0 auto; width: 75%;" class="text-center">
             <div style="width: 50%; margin: 0 auto;">
-                <a ><img src="images/crate_barrell.png">
-                </a>
-            </div>
-
-            <div style="width:40%; margin: 0 auto;">
-                <a ><img src="images/macys.gif">
+                <a href="http://www.crateandbarrel.com/gift-registry/briana-crabb-and-dylan-augenreich/r5616727" target="_blank"><img src="images/crate_barrell.png">
                 </a>
             </div>
 </div>
