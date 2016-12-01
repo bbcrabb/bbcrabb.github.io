@@ -11,7 +11,7 @@ p  {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !important
 li  {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !important;
       line-height= 1em;}
 .hotel-name{
-  font-size: 25px;
+  font-size: 20px;
 }
 .hotel-details{
     font-size: 20px;
@@ -89,7 +89,7 @@ img {
 </figure>
 
 <div class="text-center" >
-    <p class="hotel-name"><i>Hilton Garden Inn Richmond Airport </i></p>
+    <h2 class="hotel-name"><i>Hilton Garden Inn Richmond Airport </i></h2>
     <div class="hotel-details">
       <p>441 International Center Dr </p>
       <p> Sandston, VA 23150</p>
