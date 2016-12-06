@@ -24,11 +24,11 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
 
 <br>
 <h2>The Proposal</h2>
-<p> In August 2016 we took a trip to the white sandy beaches of Destin, Florida. On Monday August 22, Dylan took me to the Henderson Beach Inn for a nice dinner out. Unbeknownst to me know he had ordered up a romantic oceanside dinner complete with rose-petals, candles, and an engagement ring! As he got down on one knee tears filled my eyes and I couldn't help but blurt out YES! After the official proposal we enjoyed an extremely overpriced bottle of Dom Perignon and watched the sunset while we talked about the future ahead of us.</p>
+<p> In August 2016 we took a trip to the white sandy beaches of Destin, Florida. On Monday August 22, Dylan took me to the Henderson Beach Inn for a nice dinner out. Unbeknownst to me he had ordered up a romantic oceanside dinner complete with rose-petals, candles, and an engagement ring! As he got down on one knee tears filled my eyes and I couldn't help but blurt out YES! After the official proposal we enjoyed an extremely overpriced bottle of Dom Perignon and watched the sunset while we talked about the future ahead of us.</p>
 
 <br>
 <h2>Dylan & Bri </h2>
-<p>We are both graduates of Virginia Tech and now live in Richmond, Virginia. We love the beach, puppies, and taking awkward photos. On the weekends we enjoy spending time with family and friends and the occasional outdoor adventure. We also enjoy spending time with our wonderful pup Randi. We are looking forward our future together as our family continues to grow and our lives continue forward!</p>
+<p>We are both graduates of Virginia Tech and now live in Richmond, Virginia. We love the beach, puppies, and taking awkward photos. On the weekends we enjoy spending time with family and friends and the occasional outdoor adventure. We also enjoy spending time with our wonderful pup Randi. We are looking forward to our future together as our family continues to grow and our lives continue forward!</p>
 <br><br>
 </div>
 
