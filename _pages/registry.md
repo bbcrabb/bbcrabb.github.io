@@ -22,4 +22,9 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
                 <a href="http://www.crateandbarrel.com/gift-registry/briana-crabb-and-dylan-augenreich/r5616727" target="_blank"><img src="images/crate_barrell.png">
                 </a>
             </div>
+            <div style="width: 50%; margin: 0 auto;">
+                <a href="https://www.macys.com/wgl/registry/guest/6754153"
+                 target="_blank"><img src="images/macys-logo.png">
+                </a>
+            </div>
 </div>
