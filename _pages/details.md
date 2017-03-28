@@ -110,8 +110,9 @@ p    {font-size: 18px;  margin: 0px; font-family: 'Raleway', sans-serif !importa
   </div>
 </div>
 </div>
-
+<br>
 <div class="text-center">
-<i>This will be an adult only ceremony and reception! Please leave the kiddos at home</i>
+
+<p><i>This will be an adult only ceremony and reception! Please leave the kiddos at home</i></p>
 
 </div>
